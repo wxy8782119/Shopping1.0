@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- 配置AdminProductServiceImpl的清单 -->
+	<bean id="AdminProductService" class="com.itheima.impl.AdminProductServiceImpl"></bean>
+</beans>
